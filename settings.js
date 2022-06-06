@@ -19,7 +19,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
+global.owner = ['919422786557']
 global.premium = ['Your Number']
 global.ownernomer = 'Your Number'
 global.ownername = '🐦Vishnu'
@@ -27,7 +27,7 @@ global.botname = 'Gojo-Satoru'
 global.footer = '©V_Tech.'
 global.ig = 'https://github.com'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.sc = 'https://github.com'
 global.myweb = 'https://t.me/VTECHHACKERZONE'
 global.packname = 'Gojo-Satoru'
 global.author = '🐦Vishnu'
